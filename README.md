@@ -2,6 +2,11 @@ Hello! This React Application is made using This project generates passwords wit
 
 # Basic usage information: 
 
+After pulling and running this project after typing: 
+```
+  npm start
+```
+
 You will be greeted with the following after launching this React Application: 
 
 ![image](https://user-images.githubusercontent.com/73889850/185574830-a01d1e1e-7c40-484a-8a22-45c039dc8886.png)
