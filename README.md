@@ -1,3 +1,22 @@
+Hello! This React Application is made using This project generates passwords with scandinavian characters as an option! In this project, I've used Toastify, Tailwind, Uil icons, and React. 
+
+# Basic usage information: 
+
+You will be greeted with the following after launching this React Application: 
+
+![image](https://user-images.githubusercontent.com/73889850/185574830-a01d1e1e-7c40-484a-8a22-45c039dc8886.png)
+
+Choose the options you want, then press "Generate Password". 
+
+![image](https://user-images.githubusercontent.com/73889850/185574996-bf43eac8-8afe-465d-9f64-88e5d67b250e.png)
+Great! We've generated a password! 
+
+Then to copy, press the clipboard.
+![image](https://user-images.githubusercontent.com/73889850/185575144-549ad3f8-2050-4233-9a15-f1690a656c10.png)
+Your password has successfully been copied!
+
+To get started with the program, see the default read me instructions for React App below: 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
